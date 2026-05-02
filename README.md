@@ -1,4 +1,4 @@
-Aqui está um modelo de **README.md** que você pode colocar no seu repositório do GitHub para documentar sua aplicação de contador de cliques em React:
+# DEVSTART
 
 ```markdown
 # 🖱️ Contador de Cliques em React
