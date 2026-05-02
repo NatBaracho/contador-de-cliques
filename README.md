@@ -16,6 +16,7 @@ A cada clique em um botão, o contador exibido na tela é incrementado em 1.
 
 ## 📂 Estrutura do Projeto
 ```
+```
 contador-cliques/
 ├── src/
 │   ├── App.js
@@ -23,6 +24,7 @@ contador-cliques/
 │   └── index.js
 ├── package.json
 └── README.md
+```
 ```
 
 ---
